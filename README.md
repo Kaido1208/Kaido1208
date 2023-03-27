@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Armando Robles
 - 👀 I’m interested in anime specially one piece
-- 🌱 I’m currently learning python nstarting next week on codingdojo
-- 💞️ I’m looking to collaborate on future priojects after graduatin on codingdojo
+- 🌱 I’m currently learning full stack on coding dojo
+- 💞️ I’m looking to collaborate on future projects after graduating on codingdojo
 - 📫 How to reach me email gnt1895@gmail.com
 
 <!---
